@@ -9,4 +9,8 @@ const HomePage: NextPage = () => (
   </>
 );
 
+const getServerSideProps = () => {
+  
+}
+
 export default HomePage;
